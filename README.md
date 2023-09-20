@@ -11,7 +11,7 @@
 - [7. Valida tu solución](#7-valida-tu-solución)
 - [8. Recursos](#8-recursos)
 
----
+----
 
 ## 1. Consideraciones generales
 
